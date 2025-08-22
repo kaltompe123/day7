@@ -23,3 +23,5 @@ if __name__ == "__main__":
         print(f"{number} is Even")
     else:
         print(f"{number} is Odd")
+
+10        
